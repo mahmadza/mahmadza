@@ -4,7 +4,7 @@ I am a Data Engineer, a Computational Biologist, and a Biochemist.
 
 - 😄 Pronouns: he/him/his
 - 👀 I’m interested in all things ML engineering: managing model lifecycle, data pipelining, updating and tuning models and all that.
-- 🌱 I’m currently learning deep learning, MLOps and unit testing.
+- 🌱 I’m currently learning MLOps, DataOps, PyTorch and Generative Adversarial Networks.
 - 💞️ I’m looking to collaborate on using deep learning on genomics problems.
 - 📫 Reach me via LinkedIn (https://www.linkedin.com/in/mamduh-zabidi/).
 
