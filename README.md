@@ -1,10 +1,8 @@
-👋 Hi, I’m @mahmadza
-
 I am a Data Engineer and a Computational Biologist.
 
 - 😄 Pronouns: he/him/his
-- 👀 I’m interested in all things ML engineering: managing model lifecycle, data pipelining, updating and tuning models and all that.
-- 🌱 I’m currently learning MLOps, PyTorch and Generative Adversarial Networks.
+- 👀 I’m interested in ML engineering: getting models come alive to users.
+- 🌱 I’m currently learning MLOps, PyTorch, Generative Adversarial Networks (GANs), and synthetic data.
 - 💞️ I’m looking to collaborate on using deep learning on genomics and biological problems.
 - 📫 Reach me via LinkedIn (https://www.linkedin.com/in/mamduh-zabidi/).
 
