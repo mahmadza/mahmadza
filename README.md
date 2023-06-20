@@ -1,7 +1,6 @@
-I am a Data Engineer and a Computational Biologist.
+I am currently a Data Engineer. Previously I was a Computational Biologist.
 
-- 😄 Pronouns: he/him/his
-- 👀 I’m interested in ML engineering, getting models come alive to users.
+- 👀 I’m interested in ML engineering and getting models come alive to users.
 - 🌱 I’m currently learning MLOps, PyTorch, Generative Adversarial Networks (GANs), synthetic data.
 - 🌱 I’m also studying for AWS DevOps Engineer Professional certification.
 - 💞️ I’m looking to collaborate on using deep learning to solve genomics and biological problems.
