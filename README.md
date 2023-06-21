@@ -1,10 +1,10 @@
-I am currently a Data Engineer. Previously I was a Computational Biologist.
+I am a data engineer with background in computational biology.
 
-- 👀 I’m interested in ML engineering and getting models come alive to users.
-- 🌱 I’m currently learning MLOps, PyTorch, Generative Adversarial Networks (GANs), synthetic data.
-- 🌱 I’m also studying for AWS DevOps Engineer Professional certification.
-- 💞️ I’m looking to collaborate on using deep learning to solve genomics and biological problems.
-- 📫 Reach me via LinkedIn (https://www.linkedin.com/in/mamduh-zabidi/).
+My current interest lies in machine learning (ML) engineering and operations.<br>
+My learning diet composed of all things MLOps, Generative Adversarial Networks (GANs) and synthetic data.<br>
+I'm also studying for AWS DevOps Engineer Professional certification.<br>
+If you have interesting ideas on using deep learning to solve genomics and biological problems, feel free to connect with me.<br>
+You can also reach me via LinkedIn (https://www.linkedin.com/in/mamduh-zabidi/).<br>
 
 ---
 
