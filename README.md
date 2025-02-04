@@ -1,7 +1,4 @@
-I am a data engineer with background in computational biology.
-
-My current interest lies in machine learning (ML) engineering and operations.<br>
-If you have interesting ideas on using deep learning to solve genomics and biological problems, feel free to connect with me.<br>
+I am a data engineer with interests in ML, MLOps, data engineering and computational biology in healthcare and biology.<br>
 You can also reach me via LinkedIn (https://www.linkedin.com/in/mamduh-zabidi/).<br>
 
 ---
