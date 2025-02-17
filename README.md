@@ -1,5 +1,4 @@
-I am a data engineer with interests in ML, MLOps, data engineering and computational biology in healthcare and biology.<br>
-You can also reach me via LinkedIn (https://www.linkedin.com/in/mamduh-zabidi/).<br>
+I am a data engineer with interests in machine learning, machine learning operations, data engineering and computational biology in healthcare and biology.<br>
 
 ---
 
