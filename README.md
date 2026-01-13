@@ -19,10 +19,3 @@ I am a data engineer with interests in machine learning, machine learning operat
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mahmadza&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmadza&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmadza&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
