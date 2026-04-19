@@ -23,7 +23,7 @@ I’m currently exploring:
 
 ## Background
 
-- Senior Data Engineer, Roche Services & Solutions
+- Senior Data Engineer, Roche
 - PhD in Computational Biology / Molecular Biology, Research Institute of Molecular Pathology & University of Vienna
 - Former postdoctoral scientist in cancer genomics
 - Former wet-lab cancer biology researcher
