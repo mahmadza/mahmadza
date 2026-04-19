@@ -18,7 +18,7 @@ My background spans:
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" **alt="Rust" width="40" height="40"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original-wordmark.svg" title="Tauri" **alt="Tauri" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original.svg" title="Tauri" **alt="Tauri" width="40" height="40"/>  
   
 </div>
 
