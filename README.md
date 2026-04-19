@@ -12,7 +12,7 @@ My work sits at the intersection of:
 - Trustworthy and verifiable AI systems
 - Genomics, regulatory intelligence, and biomedical decision support
 
- My inrerests are in building systems that scientists, engineers, and healthcare organizations can actually trust: systems that are reproducible, explainable where possible, robust under real-world constraints, and useful beyond demos.
+ My interests are in building systems that scientists, engineers, and healthcare organizations can actually trust: systems that are reproducible, explainable where possible, robust under real-world constraints, and useful beyond demos.
 
 ## Current Focus
 
