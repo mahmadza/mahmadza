@@ -1,5 +1,11 @@
-I am a data engineer with interests in machine learning, machine learning operations, data engineering and computational biology in healthcare and biology.<br>
+I build trustworthy AI and data systems for healthcare, biology, and regulated scientific workflows.
 
+My background spans:
+* molecular biology
+* computational biology
+* cancer genomics
+* cloud data engineering, and
+* local-first AI.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
