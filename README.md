@@ -16,7 +16,10 @@ My work sits at the intersection of:
 
 ## Current Focus
 
-I’m currently exploring practical evaluation frameworks for genomic foundation models, trustworthy RAG systems for regulated healthcare documents, and local-first AI architectures for sensitive biomedical workflows.
+I’m currently exploring:
+- practical evaluation frameworks for genomic foundation models
+- trustworthy RAG systems for regulated healthcare documents, and
+- local-first AI architectures for sensitive biomedical workflows.
 
 ## Background
 
