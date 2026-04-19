@@ -1,4 +1,4 @@
-# Muhammad Zabidi
+# Mamduh Zabidi
 
 I build trustworthy machine learning and data systems for biology, healthcare, and scientific decision-making.
 
