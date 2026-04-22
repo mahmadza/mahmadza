@@ -2,9 +2,9 @@
 
 I build trustworthy AI and data systems for biology, healthcare, and scientific decision-making.
 
-I’m a Senior Data Engineer at Roche with a background spanning computational biology, cancer genomics, cloud engineering, MLOps, and applied machine learning. Before moving into industry data engineering, I trained as a molecular biologist and computational biologist, completing a PhD at the Research Institute of Molecular Pathology / University of Vienna and contributing to research in gene regulation, cancer genomics, and translational oncology.
+I’m a Senior Data Engineer at Roche with a background spanning computational biology, genomics, cloud engineering and applied machine learning. Before moving into industry data engineering, I trained as a molecular biologist and computational biologist, completing a PhD at the Research Institute of Molecular Pathology / University of Vienna and contributing to research in gene regulation, cancer genomics, and translational oncology.
 
-My work sits at the intersection of:
+I work at the intersection of:
 
 - AI and machine learning for healthcare and life sciences
 - Scientific data engineering and reproducible computational workflows
