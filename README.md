@@ -4,7 +4,7 @@ Scientific AI Engineer working at the intersection of trustworthy ML, computatio
 
 I build AI and data systems for healthcare, life sciences, and regulated environments.
 
-More about my work:
+Links:
 - Website: https://mamduhzabidi.github.io
 - LinkedIn: https://www.linkedin.com/in/mamduh-zabidi
 - Google Scholar: https://scholar.google.com/citations?user=gxptNrMAAAAJ&hl=en
