@@ -1,14 +1,14 @@
 # Mamduh Zabidi
 
-Scientific AI Engineer working at the intersection of trustworthy ML, computational biology, and production data systems.
+Scientific AI Engineer working on AI systems for pharmaceutical R&D, solving problems where biology and engineering meet.
 
 I build AI and data systems for healthcare, life sciences, and regulated environments.
 
 Links:
 - Website: https://mamduhzabidi.github.io
 - LinkedIn: https://www.linkedin.com/in/mamduh-zabidi
-- Google Scholar: https://scholar.google.com/citations?user=gxptNrMAAAAJ&hl=en
 - ORCID: https://orcid.org/0009-0009-2740-3014
+- Google Scholar: https://scholar.google.com/citations?user=gxptNrMAAAAJ&hl=en
 - Medium: https://medium.com/@mamduh.zabidi
 
 ### :hammer_and_wrench: Languages and Tools :
